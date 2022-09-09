@@ -1,0 +1,28 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-image: url(./imgs/photo_2022-09-09_22-20-40.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+.social-media{
+    text-align: left;
+    padding: 20px;
+    font-size: 30px;
+
+}
+.social-media a{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+    display: flex;
+    line-height: 80px;
+    padding:0 20px ;
+}
+.social-media a img{
+    width: 50px;
+    height: 50px;
+    padding:20px 20px ;
+
+}
